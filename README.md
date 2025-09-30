@@ -92,4 +92,4 @@ Make contributing frictionless:
 * Recommend MIT for easy contributions; note any trademark or logo rules in /assets
 * Community governance: small core team + contributors, maintainers listed in README
 
-* 
+
